@@ -7,7 +7,7 @@ The data used in this explainer is the Wall-Following Robot Navigation data set[
 
 ## Plots
 ![3D Plot](assets/figures/3D-plots.png)
-![2D Plot](assets/figures/2D-plots.png)
+![2D Plot](assets/figures/2d-plots.png)
 
 ## References
 - [^1]: [Laaraiedh, Mohamed. 2012. Implementation of Kalman Filter with Python Language.](https://arxiv.org/pdf/1204.0375.pdf)
