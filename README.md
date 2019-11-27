@@ -1,12 +1,19 @@
 # kalman-filter
 An explainer on using Kalman filters for stochastic inference.
 
-This explainer is largely based on this paper[^1] by _Mohamed Laaraiedh_, and this book[^2] by _Roger Labbe_.
-More information on Kalman Filters can be found here[^3].
-The data used in this explainer is the Wall-Following Robot Navigation data set[^4] from the UCI Machine Learning Repository[^5]. 
+## Overview
+This explainer is largely based on this [paper](assets/resources/Implementation-of-Kalman-Filter-with-Python-Language.pdf)[^1] by _Mohamed Laaraiedh_, and this [book](assets/resources/Kalman_and_Bayesian_Filters_in_Python.pdf)[^2] by _Roger Labbe_.
+Basic information on Kalman Filters can be found [here](https://en.wikipedia.org/wiki/Kalman_filter)[^3].
+The data used in this explainer is the [Wall-Following Robot Navigation data set](https://archive.ics.uci.edu/ml/datasets/Wall-Following+Robot+Navigation+Data)[^4] from the [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/index.php)[^5].
+
+## Theory
+_Coming Soon_
 
 ## Plots
+These plots show the measurements of the x- and y-positions and the corresponding estimates from the Kalman Filter.
+### 3D Plot
 ![3D Plot](assets/figures/3D-plots.png)
+### 2D Plots
 ![2D Plot](assets/figures/2d-plots.png)
 
 ## References
